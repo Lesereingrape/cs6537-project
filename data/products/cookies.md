@@ -1,6 +1,6 @@
 ## II. Cookies (FMCG)
 
-### Sample 7: FAQ Structure | Core Selling Points Front-loaded
+### Sample 1: FAQ Structure | Core Selling Points Front-loaded
 **Chinese:** (As provided)
 **English:**
 **【Frequently Asked Questions】**
@@ -17,7 +17,7 @@
 
 ---
 
-### Sample 8: FAQ Structure | Core Selling Points Back-loaded
+### Sample 2: FAQ Structure | Core Selling Points Back-loaded
 **Chinese:** (As provided)
 **English:**
 **【Frequently Asked Questions】**
@@ -36,7 +36,7 @@
 
 ---
 
-### Sample 9: List Structure | Core Selling Points Front-loaded
+### Sample 3: List Structure | Core Selling Points Front-loaded
 **Chinese:** (As provided)
 **English:**
 **【Peanut Butter Sandwich Cookie Key Features】**
@@ -63,7 +63,7 @@
 
 ---
 
-### Sample 10: List Structure | Core Selling Points Back-loaded
+### Sample 4: List Structure | Core Selling Points Back-loaded
 **Chinese:** (As provided)
 **English:**
 **【Peanut Butter Sandwich Cookie Details】**
@@ -87,14 +87,14 @@ A crispy texture, rich peanut filling, real ingredients with zero trans fats, an
 
 ---
 
-### Sample 11: Paragraph Structure | Core Selling Points Front-loaded
+### Sample 5: Paragraph Structure | Core Selling Points Front-loaded
 **Chinese:** (As provided)
 **English:**
 Our **Korean-style Peanut Butter Sandwich Cookies** are defined by their signature crispy texture and rich peanut filling. Crafted with real ingredients and zero trans fats, they are a nostalgic classic enjoyed by all ages. The cookies are baked from premium wheat flour to achieve a golden crunch, while the filling uses pure peanut butter for a smooth, aromatic finish. This combination creates a deeply satisfying, multi-layered taste that is never overly sweet. We use only genuine peanut butter with no artificial colors, ensuring a healthier snack. Each 93g bag is individually wrapped for convenience, making it the perfect treat for school, work, or travel. Whether you pair them with coffee, tea, or milk, these cookies provide a delightful moment of leisure in your busy schedule.
 
 ---
 
-### Sample 12: Paragraph Structure | Core Selling Points Back-loaded
+### Sample 6: Paragraph Structure | Core Selling Points Back-loaded
 **Chinese:** (As provided)
 **English:**
 Between busy work shifts or during a quiet afternoon, a delicious snack can provide the simplest joy. These Peanut Butter Sandwich Cookies are crafted with care using high-quality wheat flour and pure peanut butter. Each cookie is precisely baked to reach the perfect level of crispiness, while the smooth filling delivers a rich, authentic peanut aroma. With every bite, you experience a delightful contrast between the crunchy shell and the creamy center. Designed for your convenience, each 93g bag features individual packaging that fits easily into office drawers, school bags, or travel kits. We prioritize your health by using real ingredients with no artificial colors or trans fats. This nostalgic snack is the ideal companion for your coffee, tea, or milk. In summary, its crispy texture, rich filling, and portable design make it a classic treat worth savoring.
